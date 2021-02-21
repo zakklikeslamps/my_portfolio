@@ -35,6 +35,16 @@
   padding-right: 35px;
 }
 
+#resume {
+  font-family: "Gloria Hallelujah", cursive;
+  font-weight: bolder;
+  font-size: 40px;
+  padding-left: 35px;
+  padding-top: 25px;
+  padding-bottom: 35px;
+  color: rgb(16, 235, 100);
+}
+
 .headers,
 .Gaming,
 .LEGO,
