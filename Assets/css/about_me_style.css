@@ -1,58 +1,82 @@
-
-#Nav { 
-    justify-content: flex-end;
+#Nav {
+  justify-content: flex-end;
 }
 
 #Bio {
-    width: 400px;
-    height: 550px; 
-    padding-right: 20px;
-    float: left
+  width: 400px;
+  height: 550px;
+  padding-right: 20px;
+  float: left;
 }
 
 #Bio2 {
-    width: 400px;
-    height: 650px; 
-    padding-left: 20px;
-    float: right
+  width: 400px;
+  height: 650px;
+  padding-left: 20px;
+  float: right;
 }
 
 #name {
-    font-family: 'Gloria Hallelujah', cursive;
-    font-weight: bolder;
-    font-size: 50px;
-    text-align: left;
-    padding-left: 35px;
-    color:orange
+  font-family: "Gloria Hallelujah", cursive;
+  font-weight: bolder;
+  font-size: 50px;
+  text-align: left;
+  padding-left: 35px;
+  padding-top: 25px;
+  color: orange;
 }
 
-.headers, .Gaming, .LEGO, .VW {
-    font-family: 'Gloria Hallelujah', cursive;
-    font-weight: bolder;
-    font-size: 40px;
-    padding-left: 35px;
-    color:orange
+#phone {
+  color: whitesmoke;
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 40px;
+  padding-top: 15px;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+.headers,
+.Gaming,
+.LEGO,
+.VW {
+  font-family: "Gloria Hallelujah", cursive;
+  font-weight: bolder;
+  font-size: 40px;
+  padding-left: 35px;
+  padding-top: 25px;
+  padding-bottom: 35px;
+  color: orange;
 }
 
 .p {
-    color: whitesmoke;
-    font-family: 'Gloria Hallelujah', cursive;
-    font-size: 20px;
-    padding-top: 15px;
-    padding-left: 35px;
-    padding-right: 35px;
-}
-.andy {
-    color: rgb(16, 235, 100);
-    font-family: 'Gloria Hallelujah', cursive;
-    font-size: 20px;
-}
-.links {
-    color:rgb(16, 235, 100); 
-    font-family: 'Gloria Hallelujah', cursive;
-    font-size: 30px; 
-    padding-top: 15px;
-    padding-left: 35px;
-    padding-right: 35px;
+  color: whitesmoke;
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 20px;
+  padding-top: 15px;
+  padding-left: 35px;
+  padding-right: 35px;
 }
 
+.projects {
+  font-family: "Gloria Hallelujah", cursive;
+  font-weight: bolder;
+  font-size: 40px;
+  padding-left: 35px;
+  padding-top: 25px;
+  padding-bottom: 35px;
+  color: black;
+}
+
+.andy {
+  color: rgb(16, 235, 100);
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 20px;
+}
+.links {
+  color: rgb(16, 235, 100);
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 30px;
+  padding-top: 15px;
+  padding-left: 35px;
+  padding-right: 35px;
+}
