@@ -77,6 +77,15 @@
   color: black;
 }
 
+.publics {
+  font-family: "Gloria Hallelujah", cursive;
+  font-weight: bolder;
+  font-size: 40px;
+  padding-left: 35px;
+  padding-top: 25px;
+  color: black;
+}
+
 .andy {
   color: rgb(16, 235, 100);
   font-family: "Gloria Hallelujah", cursive;

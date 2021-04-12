@@ -1,0 +1,20 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "**Version 3.0** Building a web-site from scratch that showcases me, as an individual, in a (somewhat) professional fashion.  Utilizing both Bootsrap css/JS and my own custom css elements, I have created a web site that gives readers/visitors  a basic idea of who I am, what I do, my skill sets/resume & my interests & talents.  I've included a few pictures of myself, my fiance, our pets, and some LEGO projects I've built, as well as three short clips from games I enjoy playing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakklikeslamps/my_portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zakklikeslamps/my_portfolio/issues"
+  },
+  "homepage": "https://github.com/zakklikeslamps/my_portfolio#readme"
+}
