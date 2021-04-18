@@ -5,14 +5,18 @@
 #Bio {
   width: 400px;
   height: 550px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   padding-right: 20px;
   float: left;
 }
 
 #Bio2 {
   width: 400px;
-  height: 650px;
+  height: 575px;
+  padding-top: 10px;
   padding-left: 20px;
+  padding-bottom: 10px;
   float: right;
 }
 
